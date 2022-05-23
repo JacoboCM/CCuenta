@@ -4,6 +4,7 @@ package ccuenta;
  * @author  Jacobo
  * @version 1.0
  * @since   20/05/22
+ * Prueba para github
  */
 public class CCuenta {
     private String nombre;
